@@ -37,7 +37,6 @@
 🎓 **Computer Engineering Student** at Politecnico di Milano
 <br>
 🏆 **Bronze Medal at Italian Olympiad in Informatics 2021** (age 17)  
-<br>
 🔬 **Specialized in**: Graph algorithms, advanced data structures
 <br>
 💡 **Interests**: Pangenome algorithms, full-text indexing, optimization, cybersecurity
