@@ -60,10 +60,10 @@
 ## 📫 Contact me
 
 <p align="center">
-  <a href="mailto:tua-email@example.com">
+  <a href="mailto:igna.spacca@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tuo-profilo">
+  <a href="https://www.linkedin.com/in/ignazio-spaccavento-137901241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
