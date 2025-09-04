@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Bloobytes](https://github-readme-stats.vercel.app/api/pin/?username=IgnazioSpaccavento&repo=ginTonic&theme=tokyonight&hide_border=true)](https://github.com/IgnazioSpaccavento/ginTonic)
+[![Bloobytes](https://github-readme-stats.vercel.app/api/pin/?username=IgnazioSpaccavento&repo=ginTonic&theme=tokyonight&hide_border=true)](https://github.com/IgnazioSpaccavento/BloodBytes)
 
 </div>
 
